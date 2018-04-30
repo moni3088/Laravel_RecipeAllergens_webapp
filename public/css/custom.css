@@ -1,0 +1,22 @@
+.group-vertical-padding{
+    padding-top: 35px;
+}
+.btn-margin-right{
+    background-color: grey;
+    margin-right: 10px;
+}
+
+.list-group-recipe {
+    height: 80px;
+}
+
+#jumbotron-show-recipe{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 5px;
+}
+
+#add-ingredient-btn{
+    margin-top: 25px;
+    height: auto;
+}

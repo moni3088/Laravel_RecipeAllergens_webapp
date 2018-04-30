@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Fluffy American-style pancakes",
+    "direction": "\nPrep:10min  >  Cook:5min  >  Ready in:15min \n\n- Combine all ingredients in a large bowl. Mix until well blended.\n- Pre-heat a large non-stick frying pan on medium-high heat. Using a ladle, spoon out a portion of the batter into the pan.\n- The surface will begin to bubble. When most of the bubbles have popped (about 3 minutes), flip the pancake and allow it to cook for 2 to 3 more minutes.\n- As each pancake finishes cooking, I usually stack the cooked ones on a baking tray in a low temperature oven to keep them warm while I cook the rest.",
+    "ingredients": [
+      {
+        "quantity": "250ml",
+        "name": "Milk",
+        "allergens": [
+          {
+            "name": "Lactose"
+          }
+        ]
+      },
+      {
+        "quantity": "125g",
+        "name": "Flour",
+        "allergens": [
+          {
+            "name": "Gluten"
+          }
+        ]
+      },
+      {
+        "quantity": "1",
+        "name": "Egg"
+      },
+      {
+        "quantity": "3 tablespoons",
+        "name": "Granulated Sugar"
+      },
+      {
+        "quantity": "2 tablespoons",
+        "name": "Butter",
+        "allergens": [
+          {
+            "name": "Lactose"
+          }
+        ]
+      },
+      {
+        "quantity": "4 teaspoons",
+        "name": "Baking Powder"
+      }
+    ],
+    "status": "approved"
+  },
+
+  {
+     "name": "Scrambled eggs",
+     "direction": "\nPrep:5 min  >  Cook:5min  >  Ready in:10min \n\n- Combine all ingredients in a large bowl. Mix until well blended.\n- Pre-heat a large non-stick frying pan on medium-high heat. Break the eggs into the pan.\n- After 2 min stir the eggs gently around and add salt and preffered spices",
+     "ingredients": [
+       {
+         "quantity": "10 ml",
+         "name": "Milk",
+         "allergens": [
+           {
+             "name": "Lactose"
+           }
+         ]
+       },
+       {
+         "quantity": "3",
+         "name": "Eggs"
+       },
+       {
+         "quantity": "2 teaspoons",
+         "name": "Oil"
+       }
+     ],
+     "status": "pending"
+   }
+]
